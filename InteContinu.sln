@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteContinu.Biblio", "InteContinu.Biblio\InteContinu.Biblio.csproj", "{941A8603-A5C7-4071-B8B8-02D4F3002108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteContinu.Test", "InteContinu.Test\InteContinu.Test.csproj", "{7F845AFC-52B3-422C-9E59-54293C973C97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{C8492038-EFF4-48CF-95FC-316246C085D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{941A8603-A5C7-4071-B8B8-02D4F3002108}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{941A8603-A5C7-4071-B8B8-02D4F3002108}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{941A8603-A5C7-4071-B8B8-02D4F3002108}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7F845AFC-52B3-422C-9E59-54293C973C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7F845AFC-52B3-422C-9E59-54293C973C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7F845AFC-52B3-422C-9E59-54293C973C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7F845AFC-52B3-422C-9E59-54293C973C97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8492038-EFF4-48CF-95FC-316246C085D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8492038-EFF4-48CF-95FC-316246C085D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8492038-EFF4-48CF-95FC-316246C085D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8492038-EFF4-48CF-95FC-316246C085D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
