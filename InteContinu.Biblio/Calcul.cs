@@ -11,9 +11,29 @@ namespace InteContinu.Biblio
         //Méthode avec erreur volontaire
         public static int GetInt(string s)
         {
-            return (int.Parse(s) +1);
+            return (int.Parse(s));
         }
+        public static int Opérations(int frstNum, int scdNum, char o)
+        {
+            if (o == '-')
+            {
+                return frstNum - scdNum;
+            }
+            if (o == '+')
+            {
+                return frstNum + scdNum;
+            }
+            if (o == '*')
+            {
+                return frstNum * scdNum;
+            }
+            if (o == '/')
+            {
+                return frstNum / scdNum;
+            }
 
+            return 0;
+        }
 
     }
 }
